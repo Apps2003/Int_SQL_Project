@@ -1,5 +1,10 @@
 # Intermediate SQL - Sales Analysis
 
+![sales_image](/images/sales_image.jpg)
+
+## Dataset Link:
+https://github.com/lukebarousse/Int_SQL_Data_Analytics_Course/releases/tag/v.0.0.0
+
 ## Overview
 Analysis of customer behavior, retention, and lifetime value for an e-commerce company to improve customer retention and maximize revenue.
 
